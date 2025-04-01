@@ -46,5 +46,5 @@ This simple **transistor-based voltage amplifier** successfully amplifies the in
 - Adding a **bypass capacitor** across the emitter resistor to enhance AC gain.
 - Simulating with different transistor models for comparison.
 
-### Created by: [Your Name]
+
 
